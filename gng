@@ -1,0 +1,16 @@
+
+import java.util.Scanner;
+
+public class Number {  //guessing number game
+
+    public static void main(String[] args) {
+        Scanner scan=new Scanner(System.in);
+        while (true) { 
+            System.out.println("Welcome to Guessing No");
+            System.err.println("Enter your name:");
+            String name=scan.nextLine();
+            
+        }
+    }
+    
+}
